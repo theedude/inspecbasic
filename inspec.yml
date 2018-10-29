@@ -3,6 +3,6 @@ title: Basic Inspec
 maintainer: Mauri
 copyright: none
 copyright_email: maurici.galofre@linkeit.com
-license: none
+license: Apache-2.0
 summary: Inspec Basic for compliance and hardening
 version: 0.1.2
